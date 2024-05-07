@@ -1,16 +1,14 @@
-### Hi there 👋
+## Bem vindos ao meu perfil ## ❤
 
-<!--
-**ANNECAROLINESILVA/annecarolinesilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Anne Caroline💖
+17 years✨
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+.Estou estudando na alura🧠
+.Estou me desenvolvendo na linguagem JavaScript
+.Utilizo esse espaço para minha organizaçao e compartilhamento de projetos desenvolvidos
+
+## Pode entrar em contato comigo em 🎀
+0001081459311sp@al.educacao.sp.gov.br
+
+https://media1.tenor.com/m/aWAxvOCisdMAAAAC/alice-paisdasmaravilhas.gif
